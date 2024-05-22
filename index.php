@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="style.css" >
 </head>
 <body class="bg-[#83c5be]"> 
-<h1> Attendance </h1>
+
 <marquee class="text-2xl text-center text-[#d90429]">Our Attendance Management System is designed to streamline the process of recording and managing student attendance. By leveraging technology,  <br> <span class="text-[#5c677d]"> we aim to reduce the administrative burden on educators and provide real-time, reliable attendance data.</span></marquee>
 
 <!-- Banner Section -->
